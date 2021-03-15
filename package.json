@@ -1,0 +1,12 @@
+{
+  "name": "ms-teams-url-decoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "decode": "node main.js"
+  },
+  "author": "Navindu Dananga",
+  "license": "MIT"
+}
